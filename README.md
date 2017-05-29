@@ -17,6 +17,7 @@ Once the base models have been trained the user can select which ensembling tech
 * sklearn.
 * keras.
 * xgboost [github link](https://github.com/dmlc/xgboost).
+export PYTHONPATH=~/Desktop/ensemble-package/xgboost/python-package (on mac)
 * joblib [github link](https://github.com/joblib/joblib).
 * hyperopt [github link](https://github.com/hyperopt/hyperopt).
 * category_encoders [github link](https://github.com/wdm0006/categorical_encoding).
